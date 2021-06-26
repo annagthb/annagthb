@@ -15,7 +15,7 @@ in an image.
 	-mixture of classifiers prediction
 	-spatial prediction using Gaussian distribution
 	-k means clustering
-  are used to test the system and determine the facial features in each given image.
+  are used to determine facial features in a given image.
 
 Source code:
 *plain_make.m
